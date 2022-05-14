@@ -1,4 +1,4 @@
-Hi, I’m V.siva-bharathi.
+- Hi, I’m V.siva-bharathi.
 - 👀 I’m good @ coding.
 - 🌱 I’m currently doing Electrical and Electronics Engineering.
 
