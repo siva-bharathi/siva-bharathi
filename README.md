@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @siva-bharathi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Aws clod service
+Hi, I’m V.siva-bharathi.
+- 👀 I’m good @ coding.
+- 🌱 I’m currently doing Electrical and Electronics Engineering.
 
 <!---
 siva-bharathi/siva-bharathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
